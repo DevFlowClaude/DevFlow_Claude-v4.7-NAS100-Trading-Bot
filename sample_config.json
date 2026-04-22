@@ -1,0 +1,25 @@
+{
+  "pair": "NAS100",
+  "session": {
+    "start_hour": 8,
+    "start_minute": 30,
+    "end_hour": 21,
+    "end_minute": 0
+  },
+  "risk": {
+    "daily_loss_pct": 5.0,
+    "overall_dd_pct": 10.0,
+    "risk_per_trade_pct": 1.0
+  },
+  "claude": {
+    "min_confidence": 70,
+    "sl_min_points": 10,
+    "sl_max_points": 50,
+    "tp_sl_ratio_min": 1.5
+  },
+  "news": {
+    "pause_minutes_before": 10,
+    "pause_minutes_after": 10,
+    "currencies": ["USD"]
+  }
+}

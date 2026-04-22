@@ -1,0 +1,50 @@
+{
+  "symbol": "NAS100",
+  "symbol_canonical": "NAS100",
+  "timestamp": "2024-01-15T14:30:00Z",
+  "balance": 10000.00,
+  "equity": 10123.45,
+  "daily_pnl": 123.45,
+  "daily_loss_pct": -1.23,
+  "overall_dd_pct": -2.5,
+  "current_price": 18450.50,
+  "spread": 2.5,
+  "ema20": 18440.20,
+  "ema50": 18435.80,
+  "ema200": 18380.00,
+  "rsi": 55.2,
+  "atr": 45.8,
+  "vwap": 18442.30,
+  "day_high": 18500.00,
+  "day_low": 18400.00,
+  "positions": [
+    {
+      "id": 12345,
+      "type": "Buy",
+      "volume": 1000,
+      "entry": 18430.00,
+      "sl": 18410.00,
+      "tp": 18490.00,
+      "profit": 50.25,
+      "profit_points": 20.5
+    }
+  ],
+  "bars": [
+    {
+      "time": "2024-01-15T13:45:00Z",
+      "open": 18420.00,
+      "high": 18455.00,
+      "low": 18415.00,
+      "close": 18450.50,
+      "volume": 1250
+    },
+    {
+      "time": "2024-01-15T14:00:00Z",
+      "open": 18450.50,
+      "high": 18480.00,
+      "low": 18445.00,
+      "close": 18470.00,
+      "volume": 980
+    }
+  ]
+}

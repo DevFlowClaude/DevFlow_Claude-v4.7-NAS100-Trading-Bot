@@ -1,0 +1,25 @@
+{
+  "claude_action": "BUY",
+  "claude_order_type": "MARKET",
+  "claude_entry_low": 18450.5,
+  "claude_entry_high": 18455.0,
+  "claude_limit_price": 0,
+  "claude_sl_price": 18430.0,
+  "claude_tp_price": 18490.0,
+  "claude_confidence": 78,
+  "claude_reasoning": "Price broke above VWAP with bullish engulfing candle on M15. RSI at 55 with no divergence.",
+  "claude_ts": "2024-01-15T14:30:00Z",
+  "news_pause": false,
+  "news_should_close": false,
+  "news_label": "",
+  "upcoming_news": [
+    {
+      "date": "2024.01.15",
+      "time": "2024-01-15T14:30:00Z",
+      "time_display": "15:30",
+      "currency": "USD",
+      "title": "FOMC Rate Decision",
+      "nas100_crit": true
+    }
+  ]
+}
