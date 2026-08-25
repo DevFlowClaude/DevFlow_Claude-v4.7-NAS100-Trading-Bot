@@ -169,7 +169,5 @@ Using cutting-edge technologies 🛠️, I deliver:
 
 ---
 
-## 📩 Contact
-
-Telegram: https://t.me/DevFlowClaude  
-Linktree: https://linktr.ee/DevFlow_Claude
+## 📩 Contact  
+Linktree: [https://linktr.ee/DevFlow_C](https://linktr.ee/DevFlow_C)
